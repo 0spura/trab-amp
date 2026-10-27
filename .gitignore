@@ -6,3 +6,4 @@ foundry.sh
 signoz/pours/
 *.log
 !cenarios.log
+export-notebook/
