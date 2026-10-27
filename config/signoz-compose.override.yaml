@@ -1,0 +1,5 @@
+services:
+  ingester:
+    ports: !override
+      - 14317:4317
+      - 14318:4318

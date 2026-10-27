@@ -1,0 +1,13 @@
+== baseline inicio 2026-10-26T22:41:12Z
+== baseline fim 2026-10-26T22:45:12Z
+== pagamento_falha_50 inicio 2026-10-26T22:45:42Z
+== pagamento_falha_50 fim 2026-10-26T22:49:42Z
+== imagens_lentas_5s inicio 2026-10-26T22:50:42Z
+== imagens_lentas_5s fim 2026-10-26T22:54:42Z
+== catalogo_falha inicio 2026-10-26T22:55:42Z
+== catalogo_falha fim 2026-10-26T22:59:42Z
+== cpu_alta_ad inicio 2026-10-26T23:00:42Z
+== cpu_alta_ad fim 2026-10-26T23:04:42Z
+== vazamento_memoria_email inicio 2026-10-26T23:05:42Z
+== vazamento_memoria_email fim 2026-10-26T23:09:42Z
+== FIM 2026-10-26T23:10:43Z

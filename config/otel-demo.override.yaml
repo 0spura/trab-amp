@@ -1,0 +1,11 @@
+services:
+  otel-collector:
+    container_name: otel-collector-demo
+    networks:
+      - default
+      - signoz
+
+networks:
+  signoz:
+    name: signoz-network
+    external: true
